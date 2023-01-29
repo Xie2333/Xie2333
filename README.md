@@ -6,7 +6,7 @@
 <p align="center"> 擅长C++，UE，QT，对数据结构、网络也有涉猎</p>  
 
 <table align="center"><tr>
-<td valign="top" width="33%">
+<td valign="top" width="66%">
 	
 ### 开源项目  
 - [UE5](http://www.xiezhengzheng.top/index.php/category/portfolio/)UE5 TPS demo	
@@ -22,8 +22,6 @@
 
 https://www.xiezhengzheng.top/
 
-</td>
-<td valign="top" width="33%">
 	
 </td>
 </tr></table>
