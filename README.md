@@ -24,11 +24,6 @@ https://www.xiezhengzheng.top/
 
 </td>
 <td valign="top" width="33%">
-
-### 我的专栏  
-
-- ……
-
 	
 </td>
 </tr></table>
